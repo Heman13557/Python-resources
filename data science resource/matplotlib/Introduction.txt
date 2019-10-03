@@ -1,0 +1,28 @@
+
+                                                  INTRODUTION TO MATPLOTLIB
+                     
+
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
+
+
+Matplotlib tries to make easy things easy and hard things possible. You can generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc., with just a few lines of code. For examples, see the sample plots and thumbnail gallery.
+
+                                                        FOR INSTALLING
+
+1) Go to the command line in your system and type
+
+     >>> pip install matplotlib  
+     
+*where pip is a standard package-management system*
+
+2) Now in python IDLE 
+
+    >>> import matplotlib.pyplot as plt
+
+*where pyplot Provides a MATLAB-like plotting framework. pylab combines pyplot with numpy into a single namespace. This is convenient for interactive work, but for programming it is recommended that the namespaces be kept separate*
+
+                                                       link for help
+https://matplotlib.org/
+
+                                                  
+                                               NOW WE ARE READY FOR SOME CODING 
