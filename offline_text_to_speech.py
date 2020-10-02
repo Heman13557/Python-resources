@@ -15,6 +15,9 @@ speaking_engine.say(to_say)
 speaking_engine.runAndWait()
 
 '''
+Some Extra Features :
+
+
 to set the volume:
 speaking_engine.setProperty('volume',1.0)
 
