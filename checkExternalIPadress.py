@@ -1,7 +1,7 @@
 import urllib
 import re
 
-print "We will try to open this url, in order to get IP Address"
+print "we will try to open this url, in order to get IP Address"
 
 url = "http://checkip.dyndns.org"
 
