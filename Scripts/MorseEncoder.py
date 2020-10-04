@@ -20,3 +20,4 @@
 
     encodedString = encodedString[:-1]
     print(encodedString)
+    
